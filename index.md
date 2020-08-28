@@ -1,5 +1,7 @@
 ## Welcome to Grey's Portfolio
 
+![color swatch](https://github.com/Grey401/portfolio2020/blob/gh-pages/Images/Screen%20Shot%202020-08-28%20at%202.55.03%20PM.png?raw=true)
+
 You can use the [editor on GitHub](https://github.com/Grey401/portfolio2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
